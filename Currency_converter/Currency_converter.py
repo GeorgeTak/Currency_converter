@@ -3,7 +3,7 @@ from tkinter import ttk, scrolledtext
 import requests
 
 # API endpoint and your API key
-API_URL = "https://v6.exchangerate-api.com/v6/0026ccf01fb51924732ba83d/latest/USD"
+API_URL = "Enter your own API's URL"
 
 # Comprehensive Currency Information
 currency_info = {
